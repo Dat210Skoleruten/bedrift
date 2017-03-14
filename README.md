@@ -1,1 +1,1 @@
-# bedrift
+# Repository til openPanda.no
